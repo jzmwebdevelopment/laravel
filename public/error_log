@@ -1,0 +1,8 @@
+[15-Sep-2016 07:09:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/devhakatourscom/public_html/hldeals/app/Http/Controllers/DealsFrontEnd.php on line 12
+[15-Sep-2016 07:36:23 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/devhakatourscom/public_html/hldeals/storage/framework/views/1280d24176b9f44394bc36b69480cd14e011838b.php on line 9
+[15-Sep-2016 07:36:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/devhakatourscom/public_html/hldeals/storage/framework/views/1280d24176b9f44394bc36b69480cd14e011838b.php on line 7
+[15-Sep-2016 07:37:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/devhakatourscom/public_html/hldeals/storage/framework/views/1280d24176b9f44394bc36b69480cd14e011838b.php on line 7
+[15-Sep-2016 07:42:58 UTC] PHP Parse error:  syntax error, unexpected '$k' (T_VARIABLE), expecting ')' in /home/devhakatourscom/public_html/hldeals/storage/framework/views/1280d24176b9f44394bc36b69480cd14e011838b.php on line 6
+[15-Sep-2016 08:27:08 UTC] PHP Fatal error:  Class 'App\Http\Controllers\View' not found in /home/devhakatourscom/public_html/hldeals/app/Http/Controllers/DealsFrontEnd.php on line 17
+[15-Sep-2016 21:52:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/devhakatourscom/public_html/hldeals/storage/framework/views/1280d24176b9f44394bc36b69480cd14e011838b.php on line 19
+[16-Sep-2016 01:29:29 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/devhakatourscom/public_html/hldeals/storage/framework/views/1280d24176b9f44394bc36b69480cd14e011838b.php on line 28
